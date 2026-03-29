@@ -1,8 +1,6 @@
 # Senior2-AI-Climate-Analysis-and-Prediction
 AI-driven system for satellite imagery analysis, climate change monitoring, multi-country change detection, and automated report generation.
 
-# Senior2 AI Climate Analysis and Prediction
-
 ## Project Overview
 This project presents an AI-driven system for satellite imagery analysis to monitor and predict climate change effects. The system performs multi-country change detection, future prediction using deep learning, and automated report generation.
 
