@@ -1,0 +1,7 @@
+torch
+numpy
+matplotlib
+Pillow
+flask
+flask-cors
+pyngrok
