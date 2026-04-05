@@ -1,0 +1,39 @@
+{
+  "abudhabi": {
+    "data_path": "data/abudhabi/series.npz",
+    "model_path": "models/abudhabi.pth",
+    "start_date": "2017-10-05",
+    "end_date": "2025-12-31",
+    "time_step_days": 7,
+    "force_cpu": true
+  },
+  "alqueva": {
+    "data_path": "data/alqueva/series.npz",
+    "model_path": "models/alqueva.pth",
+    "start_date": "2020-01-09",
+    "end_date": "2025-12-31",
+    "time_step_days": 7
+  },
+  "donana": {
+    "data_path": "data/donana/series.npz",
+    "model_path": "models/donana.pth",
+    "start_date": "2016-11-10",
+    "end_date": "2025-12-31",
+    "time_step_days": 7
+  },
+  "segura": {
+    "data_path": "data/segura/series.npz",
+    "model_path": "models/donana.pth",
+    "start_date": "2018-02-22",
+    "end_date": "2025-12-31",
+    "time_step_days": 7,
+    "raw_seed": true
+  },
+  "dubai": {
+    "data_path": "data/dubai/series.npz",
+    "model_path": "models/dubai.pth",
+    "start_date": "2025-01-01",
+    "end_date": "2025-12-31",
+    "time_step_days": 7
+  }
+}
